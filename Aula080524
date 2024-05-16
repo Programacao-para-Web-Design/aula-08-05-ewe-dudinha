@@ -1,0 +1,68 @@
+<!DOCTYPE HTML>
+<html lang = "pt-br">
+	<head>
+		<meta charset = "UTF-8">
+		<title> </title>
+		<style>
+			body {
+				font-family: Arial, sans-serif;
+				font-weight: bold;
+				font-size: 14pt;
+				background-color: #E6E6FA;
+				text-align: center;
+				}
+				
+			header {
+				font-family: Arial, sans-serif;
+				font-weight: bold;
+				font-size: 14pt;
+				text-align: center;
+				background-color: #E6E6FA;
+				}
+				
+			.container img {
+				max-width:350px;
+				max-height:200px;
+				width: auto;
+				height: auto;
+				}				
+				
+			.container img2 {
+				max-width:450px;
+				max-height:250px;
+				width: auto;
+				height: auto;
+				}				
+				
+			footer {
+				font-family: Arial, sans-serif;
+				font-weight: bold;
+				font-size: 14pt;
+				text-align: center;
+				background-color: #FFFAFA;
+				padding: 10px;
+				position: static;
+				}
+				
+			
+		</style>
+	</head>
+	<body>
+		<header>
+			<h1>CEEMTI BG</h1>
+		<section class="container img">
+			<img src="LogoEscola.png">
+		</section>
+		</header>
+		<main>
+			<h2>Programação para Web Desing</h2>
+		<section class="container img2">
+			<img src="Bts.webp">
+		</section>
+		</main>
+		<footer>
+			<p>&copy; 2024 Ewelyn.Dudinha</p>
+		</footer>
+	</body>
+	</head>
+	
